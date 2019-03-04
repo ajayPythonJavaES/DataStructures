@@ -1,5 +1,3 @@
-package com.java.multithreading;
-
 public class BinarySearchTree extends BinaryTree {
 
 	static TreeNode root;
