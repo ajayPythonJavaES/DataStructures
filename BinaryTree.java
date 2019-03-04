@@ -1,5 +1,3 @@
-package com.java.multithreading;
-
 class TreeNode {
 	int data;
 	TreeNode left;
