@@ -1,5 +1,3 @@
-package com.java.multithreading;
-
 /**
  * 
  * @author asarvasi This linked list is implemented without using array.
