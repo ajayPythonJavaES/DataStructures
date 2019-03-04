@@ -117,5 +117,4 @@ public class BinaryTree {
 		binaryTree.addNode(80, binaryTree.root.left.right, binaryTree.LEFT, "G");
 		return binaryTree;
 	}
-
 }
