@@ -1,4 +1,3 @@
-package com.java.multithreading;
 /**
  * 
  * @author asarvasi: Stack using LinkedList
